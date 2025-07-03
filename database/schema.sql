@@ -1,5 +1,5 @@
 -- ===============================================
--- SISTEMA DE BIBLIOTECA DIGITAL
+-- BIBLIOTECA DIGITAL
 -- Projeto de Banco de Dados
 -- Autor: Flavio Serra
 -- Data: Julho 2025
